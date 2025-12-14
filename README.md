@@ -16,7 +16,7 @@ The model is trained on A100 GPU provided by colab.
 
 
 # Instruction
-Follow the [notebook](https://github.com/LEILingShiYu/ECE-7123-DL_Final_Project/tree/main/code) instruction to Train and evaluate and save the model checkpoint & submission file on test dataset
+Follow the [notebook](https://github.com/LEILingShiYu/ECE-7123-DL_Final_Project/tree/main/code) instruction to Train and evaluate and save the model on test dataset
 
 # Related Resource
 [Model checkpoint](https://drive.google.com/drive/folders/1GD7cK7saskH1xk-xznl_Zd8pbDTgSPdp?usp=sharing)
