@@ -9,6 +9,16 @@ The dataset for this competition is the [NYU-DEPTH-V2](https://huggingface.co/da
 ***image*** — RGB image.\
 ***depth_map*** — Depth map
 
+And [Labeled NYU-DEPTH-V2](https://huggingface.co/datasets/0jl/NYUv2)
+
+***image***: RGB image (PIL.Image.Image, shape: (640, 480, 3)).\
+***depth***: Depth map (2D array, shape: (640, 480), dtype: float32).\
+***label***: Semantic segmentation labels (2D array, shape: (640, 480), dtype: int32).\
+***scene***: Scene name (string).\
+***scene_type***: Scene type (string).\
+***accelData***: Acceleration data (list, shape: (4,), dtype: float32)
+
+
 # Environment & Device
 
 The project use ***Google Colab*** environments at newest version.\
