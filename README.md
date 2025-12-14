@@ -7,7 +7,7 @@ The project is about implementing and comparing two lightweight neural network a
 The dataset for this competition is the [NYU-DEPTH-V2](https://huggingface.co/datasets/sayakpaul/nyu_depth_v2). It includes video sequences from a variety of indoor scenes as recorded by both the RGB and Depth:
 
 ***image*** — RGB image.\
-***depth_map*** — Depth map.\
+***depth_map*** — Depth map
 
 # Environment & Device
 
